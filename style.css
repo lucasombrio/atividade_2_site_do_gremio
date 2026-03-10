@@ -129,3 +129,11 @@ footer {
 .letra{
     color: white;
 }
+.gif-cor{
+    width: 160px;
+}
+#gif {
+    position: fixed;
+    bottom: 0%;
+    right: 0%;
+}
